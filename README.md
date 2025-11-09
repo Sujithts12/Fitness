@@ -68,12 +68,12 @@ SWITCH(
 
 # Report Snapshot (Power BI DESKTOP) 
 1.
-![Dashboard](https://raw.githubusercontent.com/sujithts12/Fitness/main/Fit_1.png)
+![Dashboard](https://raw.githubusercontent.com/Sujithts12/Fitness/main/Fit_1.png)
 
 
 2.
 
-![Dashboard](https://raw.githubusercontent.com/sujithts12/Fitness/main/Fit_2.png)
+![Dashboard](https://raw.githubusercontent.com/Sujithts12/Fitness/main/Fit_2.png)
 
 
 3.
