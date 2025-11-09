@@ -1,4 +1,4 @@
-![Dashboard](https://raw.githubusercontent.com/sujithts12/Fitness/main/IMG_20250920_035704.png)
+![Dashboard](https://raw.githubusercontent.com/Sujithts12/Fitness/main/IMG_20250920_035704.png)
 
 ## 📊 Power BI Report Download
 
@@ -78,15 +78,15 @@ SWITCH(
 
 3.
 
-![Dashboard](https://raw.githubusercontent.com/sujithts12/Fitness/main/Fit_3.png)
+![Dashboard](https://raw.githubusercontent.com/Sujithts12/Fitness/main/Fit_3.png)
 
 4.
 
-![Dashboard](https://raw.githubusercontent.com/sujithts12/Fitness/main/Fit_4.png)
+![Dashboard](https://raw.githubusercontent.com/Sujithts12/Fitness/main/Fit_4.png)
 
 5.
 
-![Dashboard](https://raw.githubusercontent.com/sujithts12/Fitness/main/Fit_5.png)
+![Dashboard](https://raw.githubusercontent.com/Sujithts12/Fitness/main/Fit_5.png)
 
 ## 🎯 Outcome of the Dashboard
 
@@ -100,7 +100,7 @@ SWITCH(
 *Date:* 30th August 2025
 
 ## 📂 Download .pbix 
-📊 [Download Power BI File (PBIX)](https://github.com/sujithts12/Fitness/raw/main/Fitness_analysis.pbix)
+📊 [Download Power BI File (PBIX)](https://github.com/Sujithts12/Fitness/raw/main/Fitness_analysis.pbix)
 
 ## 📌 Data Source Mockaroo web
 
